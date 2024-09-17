@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+kiichain/
+kii/
+
+# Golang dependencies
+go.mod
+go.sum
+
+# Temporary files and directories
+.tmp/
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+combined.log
+
+# Configuration files
+config.json
+validator.json
+priv_validator_key.json
+
+# Local setup files
+localsetup.txt
+
+# Ignore any other temporary or generated files
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+*.rej
+*.swo
+*.swn
+
+# Go tarball files
+go1.19.1.darwin-amd64.tar.gz*

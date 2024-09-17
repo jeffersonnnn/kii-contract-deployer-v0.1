@@ -1,0 +1,16 @@
+{
+  "chainId": "123454321",
+  "homeDir": ".tmp/kiichaind",
+  "moniker": "Kiichain Validator 1",
+  "keyName": "validator",
+  "network": "testnet",
+  "rpcUrl": "https://a.sentry.testnet.kiivalidator.com:8645",
+  "mnemonic": "sure visa primary syrup fiscal side saddle ride series glove shrimp social segment across install pitch portion fan vocal elegant multiply crystal give receive",
+  "commissionRate": "0.100000000000000000",
+  "commissionMaxRate": "0.200000000000000000",
+  "commissionMaxChangeRate": "0.010000000000000000",
+  "minSelfDelegation": "1",
+  "website": "",
+  "identity": "",
+  "details": "Kiichain Validator 1"
+}
